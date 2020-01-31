@@ -85,7 +85,7 @@
 #endif
 #endif
 
-//#undef COMPILE_FOR_LITTLE_ENDIAN
+#undef COMPILE_FOR_LITTLE_ENDIAN
 
 
 /*******************************   P A C K   **********************************/
